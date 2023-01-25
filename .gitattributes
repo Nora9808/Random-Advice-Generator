@@ -1,2 +1,2 @@
-react.js linguist-detectable=true  
-javascript.js linguist-detectable=false  
+react.js linguist-vendored=true  
+javascript.js linguist-vendored=false 
